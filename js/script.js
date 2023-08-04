@@ -17,10 +17,8 @@ window.addEventListener("load", function () {
 window.ityped.init(document.querySelector(".iTyped"), {
   strings: [
     "Dedicated Self Learner",
-    "Front End Developer",
-    "WordPress Expert",
     "Graphic Designer",
-    "Content Writer",
+    "Discord Server Maker",
   ],
   loop: true,
   typeSpeed: 100,
