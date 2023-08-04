@@ -19,6 +19,7 @@ window.ityped.init(document.querySelector(".iTyped"), {
     "Dedicated Self Learner",
     "Graphic Designer",
     "Discord Server Maker",
+    "Business Graphics",
   ],
   loop: true,
   typeSpeed: 100,
