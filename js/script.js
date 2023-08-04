@@ -17,10 +17,10 @@ window.addEventListener("load", function () {
 window.ityped.init(document.querySelector(".iTyped"), {
   strings: [
     "Dedicated Self Learner",
+    "Front End Developer",
+    "WordPress Expert",
     "Graphic Designer",
-    "Discord Server Maker",
-    "Business Graphics",
-    
+    "Content Writer",
   ],
   loop: true,
   typeSpeed: 100,
